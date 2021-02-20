@@ -1,1 +1,1 @@
-web: python store_core/manage.py runserver 0.0.0.0:$PORT
+web: python store/manage.py runserver 0.0.0.0:$PORT
