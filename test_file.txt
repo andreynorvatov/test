@@ -1,1 +1,3 @@
 Первая строчка в документе. 20:45 15.07.2022
+
+New string in hot_fix branch with conflict. 21:03 15.07.2022 (21:13)
