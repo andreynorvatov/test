@@ -24,14 +24,14 @@ parametertodelete = parameter
 
 */q09p1*
 
-```sh
-"Request"
+Request:
+```json
 {
     "parameter" : "POST"
 }
 ```
-```sh
-"Response correct"
+Response correct:
+```json
 {
     "timeEpoch": "1664053031",
     "timeISO": "2022-09-24T20:57:11.700270800",
@@ -47,14 +47,14 @@ parametertodelete = parameter
 
 */q09p2*
 
-```sh
-"Request"
+Request:
+```json
 {
    "parameter":"PUT"
 }
 ```
-```sh
-"Response"
+Response:
+```json
 {
    "timeEpoch": "1664053292",
    "timeISO": "2022-09-24T21:01:32.926552500",
@@ -69,12 +69,12 @@ parametertodelete = parameter
 
 */q09p3*
 
+Request:
 ```sh
-"Request"
 http://localhost:8080/q09p3?parametertoremove=parameter
 ```
-```sh
-"Response"
+Response:
+```json
 {
    "timeEpoch": "1664053352",
    "timeISO": "2022-09-24T21:02:32.670084100",
