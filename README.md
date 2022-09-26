@@ -41,11 +41,12 @@ Response correct:
 }
 ```
 
+![post_flowchart](https://github.com/andreynorvatov/test/tree/main/readme_img/q09p1_post.png)
+
 </details>
 <details>
     <summary>PUT метод для обновления заданного параметра на сервере</summary>
 
-![post_flowchart](https://github.com/test/readme_img/q09p1_post.png)
 
 */q09p2*
 
