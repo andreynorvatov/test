@@ -37,15 +37,3 @@ for products, url in nice_case_urls.items():
 
     for i in rez:
         print(i)
-
-# item_name_row_list = soup.select("div > div.item_info > div.item_info--top_block > div > a > span")
-# item_coast_row_list = soup.select(
-#     "div > div.item_info > div.item_info--bottom_block > div > div > div > span > span.price_value")
-#
-# item_name_list = [i.string for i in item_name_row_list]
-# item_coast_list = [i.string.replace("\xa0", "") for i in item_coast_row_list]
-#
-# rez = zip(item_name_list, item_coast_list)
-#
-# for i in rez:
-#     print(i)
